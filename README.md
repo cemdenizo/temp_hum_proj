@@ -1,16 +1,6 @@
-# temp_hum_proj
+# Yazlık Isı Nem Basınç IOT
 
-A new Flutter project.
+Yazlık evin sıcaklık, nem ve atmosferik basınç takibini yapan uygulama. İstanbul a 2 saat mesafede bulunan yazlık eve gitmeden oradaki hava koşullarını takip etmek faydalı olacak. Hava durumu uygulamaları bazen yanıltıcı olabiliyor. Çünkü şehir merkezindeki hava koşulları sahil bölgesinden farklı olabiliyor.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Ekran Görüntüsü
+![image](https://user-images.githubusercontent.com/88027089/167291268-828ccb61-db3d-4523-8886-66de4f1b652a.png)
